@@ -4,6 +4,22 @@
 
 ### Are you ready to roll the dice and test your luck? 🏆
 
+## How to Play 🎮
+
+1. **Objective:** The goal of the game is to be the first player to reach 100 points.
+
+2. **Gameplay:**
+   - The game is played with 2 players, taking turns.
+   - On your turn, roll the dice as many times as you want. Each roll adds the result to your **current score**.
+   - **BUT** if you roll a `1`, your current score for that turn is lost, and your turn ends.
+   - You can choose to **Hold** your score at any time during your turn, which adds your current score to your **global score** and passes the turn to the next player.
+   - The first player to reach **100 points** in their global score wins the game.
+
+3. **Strategy Tips:**
+   - Balance risk and reward: Rolling the dice multiple times can quickly boost your score, but one bad roll can wipe it all out.
+   - Know when to hold: If you're close to a win, it might be smarter to hold your score rather than risk it all on a dice roll.
+
+
 ## Live Demo
 
 Check out the live version of the game [here](https://ahmedhamamm.github.io/Pig-Game/).
